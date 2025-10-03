@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1759155773 source:d:\projekti\pripremazanrs\priprema1\2\main.cpp
+	<arduinoSimulator.h>
+
+1759155773 d:\projekti\pripremazanrs\priprema1\2\include\arduinosimulator.h
+	<windows.h>
+	<arduinoPlatform.h>
+
+1759155773 d:\projekti\pripremazanrs\priprema1\2\include\arduinoplatform.h
+	"windows.h"
+
+1759155773 source:d:\projekti\pripremazanrs\priprema1\2\src\arduinoplatform.cpp
+	"arduinoPlatform.h"
+	"windows.h"
+	<time.h>
+	<demo.h>
+	<serial.h>
+
+1759155773 d:\projekti\pripremazanrs\priprema1\2\include\demo.h
+
+1759155773 d:\projekti\pripremazanrs\priprema1\2\include\serial.h
+	"Windows.h"
+	"stdlib.h"
+
+1759155773 source:d:\projekti\pripremazanrs\priprema1\2\src\arduinosimulator.cpp
+	"arduinoSimulator.h"
+	"arduinoPlatform.h"
+	"tasks.h"
+	"interrupts.h"
+	"serial.h"
+	"GUI.h"
+	"demo.h"
+
+1759155773 d:\projekti\pripremazanrs\priprema1\2\include\tasks.h
+
+1759155773 d:\projekti\pripremazanrs\priprema1\2\include\interrupts.h
+
+1759155773 d:\projekti\pripremazanrs\priprema1\2\include\gui.h
+	<arduinoPlatform.h>
+	<windows.h>
+
+1759155773 source:d:\projekti\pripremazanrs\priprema1\2\src\data.cpp
+	"data.h"
+
+1759155773 d:\projekti\pripremazanrs\priprema1\2\include\data.h
+	<iostream>
+	<string>
+	<cmath>
+	<ctime>
+	<tasks.h>
+	<arduinoPlatform.h>
+	<list>
+
+1759524641 source:d:\projekti\pripremazanrs\priprema1\2\src\demo.cpp
+	<arduinoPlatform.h>
+	<tasks.h>
+	<interrupts.h>
+	<serial.h>
+
+1759155773 source:d:\projekti\pripremazanrs\priprema1\2\src\gui.cpp
+	"GUI.h"
+	"arduinoPlatform.h"
+	"serial.h"
+	"math.h"
+
+1759155773 source:d:\projekti\pripremazanrs\priprema1\2\src\interrupts.cpp
+	"interrupts.h"
+	"arduinoPlatform.h"
+	"windows.h"
+	"stdio.h"
+
+1759155773 source:d:\projekti\pripremazanrs\priprema1\2\src\pwm.cpp
+	"pwm.h"
+	<math.h>
+	<tasks.h>
+	<arduinoPlatform.h>
+
+1759155773 d:\projekti\pripremazanrs\priprema1\2\include\pwm.h
+
+1759155773 source:d:\projekti\pripremazanrs\priprema1\2\src\serial.cpp
+	"serial.h"
+	"windowsx.h"
+
+1759155773 source:d:\projekti\pripremazanrs\priprema1\2\src\tasks.cpp
+	"tasks.h"
+	"arduinoPlatform.h"
+	"stdio.h"
+	"windows.h"
+
